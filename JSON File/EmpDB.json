@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "Name": "Reshma",
+      "Salary": "30000"
+    },
+    {
+      "id": 2,
+      "Name": "Basith",
+      "Salary": "35000"
+    },
+    {
+      "id": 3,
+      "name": "Tanvir",
+      "salary": "55000"
+    },
+    {
+      "id": 4,
+      "name": "Ravi",
+      "salary": "25000"
+    },
+    {
+      "id": 6,
+      "name": "Praneeta",
+      "salary": "5000"
+    },
+    {
+      "id": 7,
+      "name": "Sayali",
+      "salary": "25000"
+    },
+    {
+      "id": 8,
+      "name": "Nutan",
+      "salary": "50000"
+    },
+    {
+      "id": 9,
+      "name": "Pradeep",
+      "salary": "35000"
+    },
+    {
+      "id": 10,
+      "name": "Pallavi",
+      "salary": "40000"
+    },
+    {
+      "id": 11,
+      "name": "Praneeta",
+      "salary": "5000"
+    },
+    {
+      "id": 12,
+      "name": "Pallavi",
+      "salary": "40000"
+    },
+    {
+      "id": 14,
+      "name": "Pradeep",
+      "salary": "35000"
+    }
+  ]
+}
